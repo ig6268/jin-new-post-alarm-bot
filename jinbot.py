@@ -11,7 +11,7 @@ import time
 #개드립에 올라간 글 60초마다 체크 새글 올라오면 알려줌
 #참고 : https://blog.naver.com/popqser2/221426114267
 
-my_token = '651790947:AAHh2V4gYHbGcg8Z_-die2d9Jl246TCyD1Q'
+my_token = '#####################################'
 
 
 #bot = telegram.Bot(token  = my_token)
